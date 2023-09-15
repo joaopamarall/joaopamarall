@@ -12,4 +12,5 @@ In addition to my professional pursuits, I've embraced the role of a "content cr
 # 🌐 Socials:
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?joaopamarall=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 # 💻 Check Out My Repos ⬇️
