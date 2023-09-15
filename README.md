@@ -4,5 +4,5 @@ I'm João Pedro Amaral, a passionate software developer and tech enthusiast. I c
 With over 1 year of experience in the field, I've had the opportunity to work on some exciting projects and explore different technologies.
 
 # 🚀 Expertise
-
+Passionate about crafting interactive and intuitive user experiences,
 #
