@@ -11,5 +11,5 @@ In addition to my professional pursuits, I've embraced the role of a "content cr
 
 # 🌐 Socials:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/joaopamarall/joaopamarall)
 # 💻 Check Out My Repos ⬇️
