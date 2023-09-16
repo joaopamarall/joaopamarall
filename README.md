@@ -13,7 +13,7 @@ In addition to my professional pursuits, I've embraced the role of a "content cr
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joaopamarall/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-amaral-699808232) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCc214lSnGChl_2s_iP2jRbw)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=joaopamarall&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopamarall&theme=neon&hide_border=false"  width="400px" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopamarall&theme=neon&hide_border=false"  width="400px" />
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=joaopamarall&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 💻 Check Out My Repos ⬇️
