@@ -1,6 +1,6 @@
 # 👋 Hi there, you're welcome to my profile.
-I'm João Pedro Amaral, a passionate software developer and tech enthusiast. I currently work as a Software Developer intern at Devwarehouse.
-With over 1 year of experience in the field, I've had the opportunity to work on some exciting projects and explore different technologies.
+I'm João Pedro Amaral, a passionate software developer and tech enthusiast. I currently work as a Software Developer at Claro Brasil.
+With just over 1 year of experience in the field, I've had the opportunity to work on some exciting projects and explore different technologies.
 
 # 🚀 Expertise
 Passionate about crafting interactive and intuitive user experiences, I'm a dedicated student in front-end web development, combining modern frameworks with best-practice design patterns.
