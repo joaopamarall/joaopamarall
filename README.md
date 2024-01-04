@@ -1,6 +1,7 @@
 # 👋 Hi there, you're welcome to my profile.
-I'm João Pedro Amaral, a passionate software developer and tech enthusiast. I currently work as a Software Developer at Claro Brasil.
-With just over 1 year of experience in the field, I've had the opportunity to work on some exciting projects and explore different technologies.
+I'm João Pedro Amaral, Front-end development enthusiast with approximately 1 year of experience, passionate about bringing innovative ideas to life through engaging digital experiences. With a special focus on creating intuitive visual interfaces, I am continuously honing my skills in Front-end development, such as Vue, Angular, SASS with BEM, DRY, and Clean Code principles. I approach challenges with a proactive and creative mindset, always seeking opportunities to learn and grow with a focus on delivering results.
+
+My commitment to excellence is evident in my willingness to take on new challenges, driving innovation in the world of Front-end development. I am excited to contribute and learn more on this exciting journey.
 
 # 🚀 Expertise
 Passionate about crafting interactive and intuitive user experiences, I'm a dedicated student in front-end web development, combining modern frameworks with best-practice design patterns.
