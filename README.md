@@ -1,4 +1,10 @@
 # 👋 Hi there, you're welcome to my profile.
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=joaopamarall)
+
 I'm João Pedro Amaral, Front-end development enthusiast with approximately 1 year of experience, passionate about bringing innovative ideas to life through engaging digital experiences. With a special focus on creating intuitive visual interfaces, I am continuously honing my skills in Front-end development, such as Vue, Angular, SASS with BEM, DRY, and Clean Code principles. I approach challenges with a proactive and creative mindset, always seeking opportunities to learn and grow with a focus on delivering results.
 
 My commitment to excellence is evident in my willingness to take on new challenges, driving innovation in the world of Front-end development. I am excited to contribute and learn more on this exciting journey.
