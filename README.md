@@ -1,8 +1,6 @@
 # 👋 Hi there, you're welcome to my profile.
 ![](https://komarev.com/ghpvc/?username=joaopamarall)
 
-[!João Pedro Amaral profile views](https://u8views.com/api/v1/github/profiles/18569187/views/day-week-month-total-count.svg)](https://u8views.com/github/joaopamarall)
-
 I'm João Pedro Amaral, Front-End Developer with approximately 1 year of experience and currently pursuing a degree in Software Engineering.
 
 My main experience lies in Front-End development and maintenance using JavaScript and the VueJS framework, with practical experience in Angular and React as well.
