@@ -23,7 +23,7 @@ jobs:
     steps:
 
     # Verifica o repositório em $GITHUB_WORKSHOP, para que sua tarefa possa acessá-lo
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
     # Gera a cobra  
       - uses: Platane/snk@main
