@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi there, you're welcome to my profile.</h1>
 
-  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake.gif" width="1000" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake.svg">
+  </picture>
 
   <img src="https://komarev.com/ghpvc/?username=joaopamarall" alt="Profile Views">
 
