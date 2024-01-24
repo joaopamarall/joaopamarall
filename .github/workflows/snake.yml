@@ -6,7 +6,7 @@ name: Gerar Cobra
 
 on:
   schedule:
-      # a cada 6 horas
+    # a cada 6 horas
     - cron: "0 */6 * * *"
 
 # Este comando nos permite executar a ação automaticamente a partir da guia Actions.
@@ -22,17 +22,16 @@ jobs:
     # As etapas representam uma sequência de tarefas que serão executadas como parte da tarefa
     steps:
 
-    # Verifica o repositório em $GITHUB_WORKSHOP, para que sua tarefa possa acessá-lo
-      - uses: actions/checkout@v4
+    # Verifica o repositório em $GITHUB_WORKSPACE, para que sua tarefa possa acessá-lo
+      - uses: actions/checkout@v2.5.0
 
     # Gera a cobra  
       - uses: Platane/snk@main
         id: snake-gif
         with:
           github_user_name: joaopamarall
-          # estas próximas 2 linhas geram os arquivos em um branch chamado "output". Isso evita que o branch principal fique bagunçado.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          entryPoint: dist/github-contribution-grid-snake.gif
+          args: '--output ${{ github.event.inputs.outputs }}'
 
      # mostra o status da compilação. Torna mais fácil para depurar (se houver algum problema).
       - run: git status
