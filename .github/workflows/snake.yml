@@ -23,7 +23,7 @@ jobs:
     steps:
 
     # Verifica o repositório em $GITHUB_WORKSPACE, para que sua tarefa possa acessá-lo
-      - uses: actions/checkout@v2.5.0
+      - uses: actions/checkout@v3
 
     # Gera a cobra  
       - uses: Platane/snk@main
@@ -44,7 +44,7 @@ jobs:
           branch: main
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           # o branch de saída que mencionamos acima
           target_branch: output
