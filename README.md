@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hi there, you're welcome to my profile.</h1>
+
+  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake.gif" width="1000" />
+
   <img src="https://komarev.com/ghpvc/?username=joaopamarall" alt="Profile Views">
 
   <p>I'm João Pedro Amaral, Front-End Developer with approximately 1 year of experience and currently pursuing a degree in Software Engineering.</p>
