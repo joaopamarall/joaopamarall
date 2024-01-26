@@ -75,6 +75,6 @@
 
   <h2 align="center">📊 GitHub Stats:</h2>
   <div align="center">
-     <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=joaopamarall&theme=neon&hide_border=false&include_all_commits=false&count_private=false&hide=hack" width="400px" alt="Top Languages">
+     <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=joaopamarall&theme=neon&hide_border=false&include_all_commits=false&count_private=false&hide=hack" alt="Top Languages">
   </div>
   <h2 align="center">💻 Check Out My Repos ⬇️</h2>
