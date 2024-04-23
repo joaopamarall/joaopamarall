@@ -8,13 +8,41 @@
 
   <img src="https://komarev.com/ghpvc/?username=joaopamarall" alt="Profile Views">
 
-  <p>I'm João Pedro Amaral, Front-End Developer with approximately 1 year of experience and currently pursuing a degree in Software Engineering.</p>
+  Front-end Developer, specialized in Javascript.
 
-  <p>My main experience lies in Front-End development and maintenance using JavaScript and the VueJS framework, with practical experience in Angular and React as well.</p>
+<p>I have been professionally working with Vue since 2023, enhancing performance and application integrations, and I have experience in developing websites across various sectors.</p>
 
-  <p>Starting my programming studies in 2022 alongside my undergraduate program, I gained expertise in various technologies such as JavaScript, Git, SASS/SCSS, Axios, and many others.</p>
+<p>Starting my programming studies alongside my Software Engineering degree in 2022, I gained experience with various technologies and tools such as Vue (2 and 3), Angular 6, React.js, Vuetify, HTML5, CSS3, and several others.</p>
 
-  <p>I am focused on continuously evolving as a Front-End developer, always prioritizing quality and good programming practices with Clean Code and Design Patterns. In my philosophy, I consider organization, scalability, and readability as fundamental pillars to achieve a successful software project.</p>
+<p>I always prioritize quality and good programming practices with Mobile-First, Clean Code, and Design Patterns.</p>
+
+<p>I am passionate about building successful products, a great team member, experienced in optimizing processes to enhance customer experience, and efficiently solving project problems.</p>
+
+<h2>Technical Skills:</h2>
+<ul>
+    <li>VueJS (v2 and v3) | Typescript;</li>
+    <li>Angular 6 | Typescript | Angular Material;</li>
+    <li>SCRUM methodology;</li>
+    <li>HTTP Methods (RESTful API);</li>
+    <li>SASS/SCSS.</li>
+</ul>
+
+<h2>Tools:</h2>
+<ul>
+    <li>Visual Studio Code;</li>
+    <li>Github;</li>
+    <li>Git;</li>
+    <li>AWS.</li>
+</ul>
+
+<h2>Personal Qualities:</h2>
+<ul>
+    <li>Quick learner;</li>
+    <li>Organized;</li>
+    <li>Good problem solver;</li>
+    <li>Customer experience-oriented;</li>
+    <li>Skilled in giving and receiving feedback.</li>
+</ul>
 
   <h2 align="center">🔭 Tools of Trade</h2>
   <span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></span>
