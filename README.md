@@ -1,22 +1,22 @@
 <h1 align="center">👋 Hi there, you're welcome to my profile.</h1>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake-dark.svg" width="1000px">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake.svg" width="1000px">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake-dark.svg" width="1000px">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake.svg" width="1000px">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaopamarall/joaopamarall/output/github-contribution-grid-snake.svg">
+</picture>
 
-  <img src="https://komarev.com/ghpvc/?username=joaopamarall" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=joaopamarall" alt="Profile Views">
 
-  Front-end Developer, specialized in Javascript.
+<p><strong>Junior QA with a background in Front-end Development and Automated Software Testing.</strong></p>
 
-<p>I have been professionally working with Vue since 2023, enhancing performance and application integrations, and I have experience in developing websites across various sectors.</p>
+<p>I currently work as a Software Tester using Java, leveraging the Selenium automation tool.</p>
 
-<p>Starting my programming studies alongside my Software Engineering degree in 2022, I gained experience with various technologies and tools such as Vue (2 and 3), Angular 6, React.js, Vuetify, HTML5, CSS3, and several others.</p>
+<p>I have hands-on experience in software development with Vue (versions 2 and 3) using TypeScript, as well as with Angular (version 6) integrated with Angular Material.</p>
 
-<p>I always prioritize quality and good programming practices with Mobile-First, Clean Code, and Design Patterns.</p>
+<p>Since beginning my journey in Technology in 2022, alongside pursuing a Software Engineering degree, I have gained proficiency in a range of technologies, including Vue, Angular, React, Java, C, Python, JavaScript, and more.</p>
 
-<p>I am passionate about building successful products, a great team member, experienced in optimizing processes to enhance customer experience, and efficiently solving project problems.</p>
+<p>I am passionate about creating successful products, excelling as a team player, and skilled at optimizing processes to improve customer/user experiences while efficiently resolving project challenges.</p>
 
 <h2>Technical Skills:</h2>
 <ul>
