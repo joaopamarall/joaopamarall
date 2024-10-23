@@ -22,6 +22,7 @@
 <ul>
     <li>VueJS (v2 and v3) | Typescript;</li>
     <li>Angular 6 | Typescript | Angular Material;</li>
+    <li>Java | Selenium | Appium | Cucumber</li>
     <li>SCRUM methodology;</li>
     <li>HTTP Methods (RESTful API);</li>
     <li>SASS/SCSS.</li>
@@ -30,6 +31,8 @@
 <h2>Tools:</h2>
 <ul>
     <li>Visual Studio Code;</li>
+    <li>IntelliJ;</li>
+    <li>Android Studio;</li>
     <li>Github;</li>
     <li>Git;</li>
     <li>AWS.</li>
